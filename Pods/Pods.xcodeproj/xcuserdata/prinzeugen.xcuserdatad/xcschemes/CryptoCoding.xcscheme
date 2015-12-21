@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '18028F02893391DF8477A878'
-               BlueprintName = 'CryptoCoding'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libCryptoCoding.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "476C7B42D7A9058D7296DF3C939EF31E"
+               BlueprintName = "CryptoCoding"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libCryptoCoding.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

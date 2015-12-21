@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'F9CB523C53EE8387A487B034'
-               BlueprintName = 'MTGeometry'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libMTGeometry.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "60EE16BC3E09B2721640F0EE5DC9E6D9"
+               BlueprintName = "MTGeometry"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libMTGeometry.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'D033C8A67D556C4F33227F9F'
-               BlueprintName = 'MMMaterialDesignSpinner'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libMMMaterialDesignSpinner.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9D273E29CDC7B6DCC1C05ADC4B0F7B75"
+               BlueprintName = "MMMaterialDesignSpinner"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libMMMaterialDesignSpinner.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

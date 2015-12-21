@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '6565CDF26EAE54D79FEDE017'
-               BlueprintName = 'UIColor-CrossFade'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libUIColor-CrossFade.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B0FDD3482C5ECF4420D515D05469BF25"
+               BlueprintName = "UIColor-CrossFade"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libUIColor-CrossFade.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

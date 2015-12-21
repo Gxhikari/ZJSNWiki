@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '2E202D0D19041719CAD27DFD'
-               BlueprintName = 'MTColorDistance'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libMTColorDistance.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "824E83A807563513ECDB9AC9F8A85F1B"
+               BlueprintName = "MTColorDistance"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libMTColorDistance.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

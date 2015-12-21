@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '24E2723547913C065F2321AC'
-               BlueprintName = 'KLSwitch'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libKLSwitch.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2FAC15A2E5D320FC6C9772FC1D8B2BEC"
+               BlueprintName = "KLSwitch"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libKLSwitch.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

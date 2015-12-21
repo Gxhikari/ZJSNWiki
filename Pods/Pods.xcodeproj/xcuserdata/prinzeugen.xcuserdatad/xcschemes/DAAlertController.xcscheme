@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '53908D2F8D5499395C99F69B'
-               BlueprintName = 'DAAlertController'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libDAAlertController.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BBD53EC17A08AC711063C72FC0666A99"
+               BlueprintName = "DAAlertController"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libDAAlertController.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '5DD14F8AC275FC3091278390'
-               BlueprintName = 'NYXImagesKit'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libNYXImagesKit.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "207FCA348A5C0F480C85BDC512E0E110"
+               BlueprintName = "NYXImagesKit"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libNYXImagesKit.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

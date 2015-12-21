@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'B0854D7639E858548CF0D161'
-               BlueprintName = 'MMMaterialDesignSpinner-MaterialDesignSpinner'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'MaterialDesignSpinner.bundle'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AD84FAB066A799FD1A5F272DD6107A4A"
+               BlueprintName = "MMMaterialDesignSpinner-MaterialDesignSpinner"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "MaterialDesignSpinner.bundle">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

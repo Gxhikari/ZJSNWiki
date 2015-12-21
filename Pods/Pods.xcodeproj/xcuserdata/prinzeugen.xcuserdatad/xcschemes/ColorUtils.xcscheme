@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'A7900510D8AD50CB11B1A7EF'
-               BlueprintName = 'ColorUtils'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libColorUtils.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DFE327E2AF6B5B0529DD6EF98FF1788D"
+               BlueprintName = "ColorUtils"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libColorUtils.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'B1B3F54BCE2A2216EB225939'
-               BlueprintName = 'RegExCategories'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libRegExCategories.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BE0682FFFDB9F1EEC4953B2F6A623F4C"
+               BlueprintName = "RegExCategories"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libRegExCategories.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

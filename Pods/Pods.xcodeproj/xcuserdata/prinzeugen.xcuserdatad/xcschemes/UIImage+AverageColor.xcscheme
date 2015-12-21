@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'B488361CE6CAE8CA948F05FD'
-               BlueprintName = 'UIImage+AverageColor'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libUIImage+AverageColor.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "37C89862B362548270A7C30EC4052232"
+               BlueprintName = "UIImage+AverageColor"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libUIImage+AverageColor.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

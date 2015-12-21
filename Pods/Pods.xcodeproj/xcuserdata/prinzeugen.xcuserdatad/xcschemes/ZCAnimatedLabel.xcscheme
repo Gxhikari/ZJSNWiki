@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '9C3DF5D0544C2C8D396E35A0'
-               BlueprintName = 'ZCAnimatedLabel'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libZCAnimatedLabel.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "57B57499A7D753E60EC45124943EB88C"
+               BlueprintName = "ZCAnimatedLabel"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libZCAnimatedLabel.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

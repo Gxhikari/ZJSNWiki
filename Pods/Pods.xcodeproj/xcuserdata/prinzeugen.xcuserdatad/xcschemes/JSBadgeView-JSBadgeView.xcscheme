@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '1AB7BF4E464689E270CA8EEF'
-               BlueprintName = 'JSBadgeView-JSBadgeView'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'JSBadgeView.bundle'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BCCC0F4081C473B2448DD2FB829E748C"
+               BlueprintName = "JSBadgeView-JSBadgeView"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "JSBadgeView.bundle">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
